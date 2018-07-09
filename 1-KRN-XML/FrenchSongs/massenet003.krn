@@ -1,0 +1,98 @@
+!!!COM: Jules Massenet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Vous Aimerez Demain
+!!!LYR: Armand Silvestre
+!!!OPR: Poe^me d'Avril
+!!!ONM: No. 5
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 - David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 6
+!!!ODT: 1866/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[]	*
+*M2/4	*
+!!created: 12/13/03 21:10
+!!proofed and posted: 12/13/03 23:02
+!!edit time: 31 min.
+=1	=1
+4r	.
+16r	.
+{16cc	{Le
+16b	doux
+16a	prin-
+=2	=2
+16dd	-temps
+16b	a
+[8g	bu-
+16g]	|
+(bq	dans
+16a)	|
+16g	le
+16f	creux
+=3	=3
+16cc	de
+16g	sa
+8e}	main,}
+16r	.
+{16d	{Le
+16e	pre-
+16f	-mier
+=4	=4
+16g	pleur
+16a	qu'au
+[8b	bois
+16b]	|
+16b	lais-
+16cc#	-sa
+16ee	tom-
+=5	=5
+16.dd#t	-ber
+32b	l'au-
+(4b	-ro-
+16e)}	-re;}
+16r	.
+=6	=6
+4r	.
+16r	.
+{16ffn	{Vous
+16ee	ai-
+16ddn	-me-
+=7	=7
+16.ee	-rez
+32dd	de-
+[8g	-main,
+16g]	|
+16ee	vous
+16dd	qui
+16cc	n'ai-
+=8	=8
+(eeq	-miez
+16dd)	|
+16cc	en-
+8f	-co-
+16f}	-re;}
+{16f	{Et
+16g	vous
+16a	qui
+=9	=9
+(ccq	n'ai-
+16b)	|
+16a#	-miez
+[8b	plus,
+16b]	|
+16an	vous
+16b	ai-
+16cc	-me-
+=10	=10
+16.dd	-rez
+32ee	de-
+[8dd	-main!
+16dd]}	|}
+16r	.
+8r	.
+!!11 - end (43) repeat strophes
+*-	*-

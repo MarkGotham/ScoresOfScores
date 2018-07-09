@@ -1,0 +1,127 @@
+!!!COM: Robert Schumann
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: Lieder: aus dem Schenkenbuch im Divan
+!!!LYR: Goethe
+!!!OPR: Myrten
+!!!OPS: Op. 25
+!!!ONM: No. 5
+!!!ENC: Ben Fuhrman
+!!!YOR: Schumann Lieder - Max Friedlaender, ed.,
+!!!YOR: New York: C. F. Peters, Vol. 1
+!!!ODT: 1840/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clefG2	*
+*k[f#c#g#d#]	*
+*M2/4	*
+!!created: 5/10/06 12:25
+!!proofed and posted: 5/10/06 12:26
+!!edit time: 25 minutes
+=2	=2
+8r	.
+{8g#	{Sitz'
+8.g#	ich
+16g#	al-
+=3	=3
+(8g#	-lein
+4a)	|
+8g#	wo
+=4	=4
+8g#	kann
+8f#	ich
+8e	bes-
+8f#	-ser
+=5	=5
+8g#}	sein?}
+8r	.
+4r	.
+!! rest to measure 7
+=7	=7
+4r	.
+{8dd#	{mei-
+8cc#	-nem
+=8	=8
+8bb	Wein
+8f#	trink'
+8f#	ich
+(16g#	al-
+16a#)	|
+=9	=9
+4b}	lein;}
+4r	.
+=10	=10
+*k[]	*
+*M6/8	*
+{4cc	{nie-
+8g	-mand
+8g	setzt
+8a	|
+8b	mir
+=11	=11
+4cc	Schran-
+8g}	-ken,}
+4r	.
+{8g	{ich
+=12	=12
+8.cc	hab'
+16g	so
+16g	mei-
+16g	-ne
+8.g	eig-
+16a	-nen
+8b	Ge-
+=13	=13
+4cc	-dan
+[8g	ken.
+(4g]	|
+8g#)}	|}
+=14	=14
+*k[f#c#g#d#]	*
+*M2/4	*
+8r	.
+{8g#	{Sitz'
+8.g#	ich
+16g#	al-
+=15	=15
+(8g#	lein,
+4a)	|
+8b	wo
+=16	=16
+8cc#	kann
+8a	ich
+8f#	bes-
+8b	-ser
+=17	=17
+8g#}	sein?}
+8r	.
+4r	.
+!! rest to measure 19
+=19	=19
+8r	.
+{8f#	{wo
+8a	kann
+8f#	ich
+=20	=20
+4.b	bes-
+8B	-ser
+=21	=21
+4e}	sein,}
+4r	.
+=22	=22
+4r	.
+{8b	{bes-
+8b	-ser
+=23	=23
+4g#}	sein,}
+4r	.
+=24	=24
+8r	.
+{4b	{bes-
+8b	-ser
+=25	=25
+4g#}	sein?}
+4r	.
+==	==
+*-	*-

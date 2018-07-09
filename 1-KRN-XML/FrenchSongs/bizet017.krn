@@ -1,0 +1,135 @@
+!!!COM: Georges Bizet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: L'Abandonne/e
+!!!LYR: Catulle Mende\s
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 -David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 4
+!!!ODT: 1886/
+!!NB: Questionable authenticity, according to Grove.
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[f#c#g#]	*
+*M3/4	*
+!!started: 5/6/03 23:37
+!!pasted to vi: 5/7/03 0:06
+!!encode/analyze/proof/edit: 26 min.
+=5	=5
+{4cc#	{D'au-
+8b	-tres
+8a	fem-
+8g#	-mes
+8a	m'ont
+=6	=6
+2.dd	pris
+=7	=7
+8b	son
+8cc#	re-
+4dd	-gard,
+8f#	sa
+8g#	pen-
+=8	=8
+4b	-se/-
+4a}	-e!}
+4r	.
+=9	=9
+{4b	{Com-
+8a	-me
+8g#	dans
+8f#	l'eau
+8e	cou-
+=10	=10
+[2cc#	-ran-
+8cc#]}	-te}
+8r	.
+=11	=11
+{8f#	{Une
+8g#	i-
+4a	-mage
+8f#	ef-
+8b	-fa-
+=12	=12
+4b	-ce/-
+4e}	-e,}
+4r	.
+=13	=13
+{4b	{Rien
+8b	n'est
+8ee	res-
+8cc#	-te/
+8b	de
+=14	=14
+[2a	moi
+8a]}	|}
+8r	.
+=15	=15
+{4b	{dans
+8b	son
+8ee	re^ve
+8cc#	ou-
+8b	-bli-
+=16	=16
+4a}	-eux!}
+4r	.
+{8a#	{Si
+8a#	je
+=17	=17
+2b	frappe
+8b#	a\
+8b#	sa
+=18	=18
+2cc#	porte,
+8dd#	il
+8dd#	di-
+=19	=19
+(4ee	-ra,
+4g#)	|
+8b#	l'in-
+8dd#	-fi-
+=20	=20
+4dd#	-de\-
+4cc#}	-le:}
+4r	.
+=21	=21
+{8cc#	{<<Quelle
+8b#	est
+4cc#	cette
+8dd#	e/-
+8cc#	-tran-
+=22	=22
+(4cc#	-ge\-
+4bn)}	-re}
+4r	.
+=23	=23
+{4b	{et
+8a#	pour-
+8b	-quoi
+8cc#	pleu-
+8b	-re~
+=24	=24
+4.ff#	~t~el-
+8ee}	-le?>>}
+{8dd	{Il
+8cc#	n'au-
+=25	=25
+(4.b	-ra
+8a)	|
+8g#	re-
+8f#	-con-
+=26	=26
+2e	-nu
+8a	ni
+8b	mes
+=27	=27
+4cc#	pleurs
+4.dd	ni
+8g#	mes
+=28	=28
+[4a	yeux!
+8a]}	|}
+8r	.
+4r	.
+*-	*-

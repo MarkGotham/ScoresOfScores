@@ -1,0 +1,125 @@
+!!!COM: Franz Schubert
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: "Meeres Stille"
+!!!LYR: Johann Wolfgang von Goethe
+!!!OPS: Op. 3
+!!!ONM: No. 2
+!!!ENC: Ben Fuhrman
+!!!YOR: Schubert Lieder - Dietrich Fischer-Dieskau, and Elmar Budde, eds.
+!!!YOR: New York: C. F. Peters, Vol. 2
+!!!ODT: 1815/
+!!NB: Only vocal melody encoded.
+!!NB: First instance of melodic material only encoded.
+**kern
+*clef G2
+*k[]
+*M2/2
+!!created: 08/01/06 9:20
+!!proofed and posted: 08/01/06 9:20
+!!edit time: 20 minutes
+=1
+{2.e
+4e
+=2
+2e
+2e
+=3
+2.g
+4g
+=4
+2e
+2c
+=5
+2.e
+4e
+=6
+2a
+2f#
+=7
+(2d#
+qe
+qd#
+4c#)
+4d#
+=8
+2.e}
+4r
+=9
+{2.fn
+4g#
+=10
+(4.a
+8e)
+2e
+=11
+(2b
+qcc
+qb
+4a)
+4b
+=12
+qdd
+2cc
+2cc
+=13
+2.cc
+4a
+=14
+2.cc
+4a
+=15
+2g
+2a
+=16
+1f}
+=17
+{2.d#
+4d#
+=18
+2.a
+4a
+=19
+2.cc
+4cc
+=20
+qb
+2a
+2a
+=21
+2.a
+4a
+=22
+2a
+2f#
+=23
+2.g
+4e
+=24
+1B}
+=25
+{2.e
+4e
+=26
+2a
+2a
+=27
+2.b
+4f#
+=28
+2g#
+2e
+=29
+2.g
+4g
+=30
+2g
+2g
+=31
+2.g
+4g
+=32
+2c}
+2r
+==
+*-

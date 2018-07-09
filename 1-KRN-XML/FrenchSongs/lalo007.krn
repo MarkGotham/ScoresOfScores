@@ -1,0 +1,70 @@
+!!!COM: Edouard Lalo
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Comment disaent~ils
+!!!OPR: 6 Me/lodies avec accompagnement de piano
+!!!OPS: Op. 17
+!!!ONM: No. 1
+!!!LYR: Victor Hugo
+!!!ENC: Jacob Pegg
+!!!ODT: 1856/
+!!!YOR: Romantic French Song 1830-1870, David Tunley, ed., New !!!YOR: York: Garland Publishing, Inc., 1995, vol. 3
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[b-e-a-d-g-]	*
+*M3/8	*
+=8	=8
+4r	.
+{8dd-	{Com-
+=9	=9
+8.cc	-ment,
+16b-	dis-
+8cc	-aient~
+=10	=10
+(8dd-	~ils,
+16a-)}	|}
+16r	.
+{8dd-	{A-
+=11	=11
+8.cc	-vec
+16b-	nos
+8cc	na-
+=12	=12
+[8dd-	-cel-
+16dd-]}	-les,}
+16r	.
+{8ff	{Fuir
+=13	=13
+8ff	les
+8ee-	al-
+8dd-	-gua-
+=14	=14
+[8cc	-zils?
+16cc]}	|}
+16r	.
+8r	.
+=15	=15
+4.r	.
+=16	=16
+4r	.
+{8dd-	{Ra-
+=17	=17
+8.dd-	-mez,
+16cc	dis-
+8b-	-aient~
+=18	=18
+8a-	~el-
+8f}	-les}
+16r	.
+{16f	{Ra-
+=19	=19
+4b-	-mez,
+16a-	dis-
+16a-	-aient~
+=20	=20
+[4a-	~el-
+16a-]}	-les.}
+16r	.
+*-	*-

@@ -1,0 +1,85 @@
+!!!COM: Edouard Lalo
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Puisqu'ici-bas tout a^me
+!!!OPR: 6 Me/lodies avec accompagnement de piano
+!!!OPS: Op. 17
+!!!ONM: No. 2
+!!!LYR: Victor Hugo
+!!!ENC: Jacob Pegg
+!!!ODT: 1856/
+!!!YOR: Romantic French Song 1830-1870, David Tunley, ed., New !!!YOR: York: Garland Publishing, Inc., 1995, vol. 3
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[]	*
+*M3/4	*
+=4	=4
+8r	.
+{8e	{Puis-
+8e	-qu'i-
+8a	-ci
+8a	bas,
+8cc	tou-
+=5	=5
+[2cc	-te a^-
+4cc]}	-me}
+=6	=6
+8r	.
+{8a	{Don-
+8a	-ne a\
+8b	quel-
+4g#}	-qu'un}
+=7	=7
+8r	.
+{8g#	{Sa
+8g#	mu-
+8b	-si-
+8b	-que,
+8ff	sa
+=8	=8
+[2ff	flam-
+4ff]}	-me}
+=9	=9
+8r	.
+{8b	{Ou
+8b	son
+8cc	par-
+4a}	-fum,}
+=10	=10
+8r	.
+{8cc	{Re-
+8cc	-c5ois
+8b	mes
+8b	voeux
+8a	sans
+=11	=11
+(8g	nom-
+8ee)	|
+2ee}	-bre,}
+=12	=12
+8r	.
+{8dd	{O
+8dd	mes
+8ee	a-
+4cc}	-mours!}
+=13	=13
+8r	.
+{8a	{Re-
+8a	-c5ois
+8g	la
+8g	flam-
+8f	-me ou
+=14	=14
+(8e	l'om-
+8cc)	|
+2cc}	-bre}
+=15	=15
+8r	.
+{8b	{De
+8b	tous
+8cc	mes
+4a}	jours!}
+!!4 strophes follow
+*-	*-

@@ -1,0 +1,84 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Volkslied
+!!!LYR: Volkslieder
+!!!OPS: Op. 7
+!!!ONM: No. 4
+!!!ODT: 1852/
+!!!ONB: Original key: e minor
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!!ODT: 1852/
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[f#c#g#d#]	*
+*M3/4	*
+*MM125	*
+!! tempo indication: bewegt = allegro moderato
+=4	=4
+4r	.
+4r	.
+{4g#	{Die
+=5	=5
+2g#	Schwa2l-
+4e	-ble
+=6	=6
+2f#	zie-
+4a	-het
+=7	=7
+2g#}	fort,}
+4r	.
+=8	=8
+{2f#	{zie-
+4a	-het
+=9	=9
+2g#}	fort,}
+4r	.
+=10	=10
+{4a	{weit
+4g#	an
+4f#	en
+=11	=11
+(4cc#	an-
+4b)	|
+4a	-dre,
+=12	=12
+(4ee	an-
+4ddn)	|
+4c	-dre
+=13	=13
+2b}	Ort,}
+4r	.
+=16	=16
+4r	.
+4r	.
+{4g#	{und
+=17	=17
+2g#	i
+4e	sitz
+=18	=18
+2f#	do
+4a	in
+=19	=19
+2g#	Trau-
+4b	-rig-
+=20	=20
+(2a	-keit,
+4cc#)	es
+=21	=21
+(4cc#	isch
+4b)	|
+4a	a
+=22	=22
+2g#	bo2-
+4g#	-se,
+=23	=23
+(4f#	schwe-
+4e)	|
+4d#	-re
+=24	=24
+2.c#}	Zeit.}
+*-	*-

@@ -1,0 +1,88 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Ich schleich umber betru2bt
+!!!OPS: Op.32
+!!!ONM: No. 3
+!!!LYR: Platen
+!!!ONB: Original key: originaltonart
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!!ODT: 1864/
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[b-]	*
+*M3/4	*
+*MM[moderato]	*
+!! tempo indication: massig
+=0	=0
+4r	.
+4r	.
+{4d	{Ich
+=1	=1
+2d	schleich
+4d	um-
+=2	=2
+2f	-her
+4f	be-
+=3	=3
+2e	-tr2bt
+4e	und
+=4	=4
+2g}	stumm,}
+{4b-	{du
+=5	=5
+2a	fragst,
+4b-	o
+=6	=6
+4a	fra-
+4g#	-ge
+4gn	mich
+=7	=7
+2f	nicht
+4d	war-
+=8	=8
+2e}	-um?}
+4r	.
+=10	=10
+{4d	{Das
+4g	Herz
+4b-	er-
+=11	=11
+2cc	-schu2t-
+4f	-tert
+=12	=12
+4f	so
+4a	man-
+4cc	-che
+=13	=13
+2.dd-}	Pein!}
+=14	=14
+{4cc#	{und
+4cc#	ko2nnt
+4ddn	ich
+=15	=15
+(4dd	je
+4b-)	|
+4g	zu
+=16	=16
+(4a	du2-
+4f)	|
+4e	-ster
+=17	=17
+2g}	sein,}
+4r	.
+=18	=18
+4r	.
+4r	.
+{4b-	{zu
+=19	=19
+(4a	du2-
+4f)	|
+4e	-ster
+=20	=20
+2d}	sein?}
+4r	.
+*-	*-

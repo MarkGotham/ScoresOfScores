@@ -1,0 +1,101 @@
+!!!COM: Felix Mendelssohn
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: Todeslied der Bojaren
+!!!LYR: Karl Immermann
+!!!ENC: Daniel Alt & Leigh VanHandel
+!!!YOR: Sa2mmtliche Lieder fu2r eine Singstimme 
+!!!YOR: Neu revidirt von Dr. L. Benda, Ausgabe fu2r mittlere Stimme
+!!!YOR: Braunschweig. Henry Litolff's Verlag. Boston and New York: Arthur P. Schmidt.
+!!!ODT: 1831/
+**kern
+*staff1
+=1-
+*clefG2
+*k[f#]
+*met(C)
+*M4/4
+{4e
+8.f#
+16f#
+4g
+16a
+16g
+16f#
+16e
+=2
+4g
+8.a
+16a
+2b}
+=3
+{8.b
+16cc
+4b
+8.b
+16cc
+[4b
+=4
+2.b]}
+4r
+=5
+{4e
+8.f#
+16f#
+4g
+16a
+16g
+16f#
+16e
+=6
+4g
+aq
+16g
+16f#
+16g
+16a
+2b}
+=7
+{8.b
+16cc
+4b
+8.b
+16cc
+[4b
+=8
+2.b]}
+4r
+=9
+{4g
+8.d
+16g
+8a
+8cc
+8b
+16r
+16a
+=10
+4g
+8.d
+16g
+8a
+8cc
+4b}
+=11
+{4b
+4b
+4dd
+8.b
+16b
+=12
+8b
+8a
+8g
+8a
+[2b
+=13
+1b_
+=14
+1b]}
+==
+*-

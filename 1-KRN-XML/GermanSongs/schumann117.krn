@@ -1,0 +1,102 @@
+!!!COM: Robert Schumann
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: "Die letzten Blumen starben"
+!!!LYR: Elizabeth Kulmann
+!!!OPR: Sieben Lieder
+!!!OPS: Op. 104
+!!!ONM: No. 6
+!!!ENC: Leigh VanHandel
+!!!YOR: Schumann Lieder - Max Friedlaender, ed.,
+!!!YOR: New York: C. F. Peters, Vol. 3
+!!!ODT: 1851/
+**kern	**silbe
+*staff1	*
+*clefG2	*
+*k[b-e-]	*
+*M2/4	*
+*MM[Langsam]	*
+=1	=1
+2r	.
+=2	=2
+2r	.
+=3	=3
+4r	.
+8r	.
+{8b-	{Die
+=4	=4
+4.a	letz-
+8b-	-ten
+=5	=5
+8.a	Blu-
+16g	-men
+8g	star-
+8g}	-ben,}
+=6	=6
+{4cc	{la2ngst
+8g	sank
+8a	die
+=7	=7
+8.b-	Ko2-
+16b-	-ni-
+8b-	-gin
+8b-	der
+=8	=8
+4.a	war-
+8b-	-men
+=9	=9
+8.a	Som-
+16g	-mer-
+8g	-mon-
+16g}	-de,}
+{16g	{die
+=10	=10
+8.ee-	hol-
+32dd	-de
+32cc	|
+8a	Ro-
+8b-	-se
+=11	=11
+4g}	hin!}
+4r	.
+=12	=12
+2r	.
+=13	=13
+{8g	{Bin
+16g	ich
+16g	doch
+8a-	we-
+8b-	-der
+=14	=14
+8g	Pap-
+8g}	-pel,}
+8r	.
+{8cc	{noch
+=15	=15
+8.f	Ro-
+16f	-se,
+8a-	zart
+8a-	und
+=16	=16
+4g}	schlank,}
+8r	.
+{8g	{wa-
+=17	=17
+8d	-rum
+8d	soll
+8c	ich
+8c	nicht
+=18	=18
+8d	sin-
+8d}	-ken,}
+{8g	{da
+16g	selbst
+16g	die
+=19	=19
+4.b-	Ro-
+8f#	-se
+=20	=10
+4g}	sank?}
+4r	.
+==	==
+*-	*-

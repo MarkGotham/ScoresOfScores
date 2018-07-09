@@ -1,0 +1,106 @@
+!!!COM: Jules Massenet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Bonne Nuit!
+!!!LYR: Camille Distel
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 - David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 6
+!!!ODT: 1868/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[f#]	*
+*M2/4	*
+!!created: 12/20/03 16:27
+!!proofed and posted: 1/22/04 0:29
+!!edit time: 29 min.
+=1	=1
+2r	.
+=2	=2
+4r	.
+4r	.
+=3	=3
+2r	.
+=4	=4
+4r	.
+16r	.
+{16g	{La
+16g	ter-
+16a	-re
+=5	=5
+8b	dort
+16g	au
+16a	ciel
+8b	pur,
+16g	Les
+16a	e/-
+=6	=6
+16b	-toi-
+16b	-les
+16g	dans
+16a	l’a-
+(8b	-zur
+8dd)	|
+=7	=7
+16g	De-
+16f#	-scen-
+16g	-dent
+16a	veil-
+8cc#	-ler
+8b	sur
+=8	=8
+(4g	el-
+8d)}	-le;}
+8r	.
+=9	=9
+{(8a	{Sur
+8cc)	|
+8cc	ter-
+8e	-re
+=10	=10
+16d	un
+16f#	jar-
+16d	-din
+16f#	fleu-
+4a}	-rit}
+=11	=11
+{8a	{Mais
+8cc	les
+(8cc	fleurs
+8ee)	|
+=12	=12
+(16dd#	ont
+16b)	|
+16b	pli-
+16f#	-e/
+[4b	l’ai-
+=13	=13
+(16b]	|
+16cc	|
+16b	|
+16cc	|
+4a	|
+=14	=14
+4g)}	-le.}
+8r	.
+{16g	{Bon-
+16a	-ne
+=15	=15
+(8b	nuit,
+8ee)}	|}
+8r	.
+{16g	{Bon-
+16a	-ne
+=16	=16
+(8b	nuit,
+8dd)}	|}
+8r	.
+{16d	{bon-
+16b	-ne
+=17	=17
+4g}	nuit!}
+4r	.
+!! two melodically equivalent strophes follow.
+*-	*-

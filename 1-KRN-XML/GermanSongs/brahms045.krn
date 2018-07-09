@@ -1,0 +1,107 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Schwermut
+!!!OPS: Op. 58
+!!!ONM: No. 5
+!!!LYR: Candidus
+!!!ONB: Original key: Originaltonart
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!!ODT: 1871/
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[b-e-a-d-g-c-]	*
+*M4/4	*
+*MM[adagio]	*
+!! tempo indication: sehr langsam
+=5	=5
+2r	.
+4r	.
+{4b-	{Mir
+=6	=6
+2.b-	ist
+4b-	so
+=7	=7
+2ee-	weh
+2dd-	ums
+=8	=8
+2a-}	Herz,}
+4r	.
+{4a-	{mir
+=9	=9
+2.b-	ist
+4cc-	als
+=10	=10
+2.cc-	ob
+4cc-	ich
+=11	=11
+2.dd-	wei-
+4ee-	-nen
+=12	=12
+2ee-	mo2ch-
+4ee-}	-te,}
+4r	.
+=13	=13
+2r	.
+{2ff	{Vor
+=14	=14
+2b-}	Schmerz!}
+2r	.
+=17	=17
+2r	.
+{2g-	{Ge-
+=18	=18
+2.g-	dan-
+4f#	-ken-
+=19	=19
+2f#}	-satt}
+4r	.
+{4f#	{und
+=20	=20
+2.f#	le-
+4dn	-bens-
+=21	=21
+2dn}	-matt}
+2r	.
+=23	=23
+2r	.
+{2ddn	{mo2cht
+=24	=24
+*M4/2	*
+2b-	ich
+2an	das
+2a	Haupt
+2gn	hin-
+=25	=25
+(2.gn	-le-
+4f)	|
+2e-	-gen
+[2e-	in
+=26	=26
+2e]	|
+2e	die
+2g-	Nacht
+2g-	der
+=27	=27
+1cc-	Na2ch-
+2b-}	-te,}
+{[2b-	{in
+=28	=28
+2b-]	|
+2cc-	die
+2dd-	Nacht
+2ee-	der
+=29	=29
+(2ee-	Na2ch-
+[2b-	|
+2b-]	|
+2dn)	|
+=30	=30
+2e-}	-te!}
+2r	.
+2r	.
+2r	.
+*-	*-

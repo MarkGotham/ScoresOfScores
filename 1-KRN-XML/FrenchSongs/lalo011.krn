@@ -1,0 +1,96 @@
+!!!COM: Edouard Lalo
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Oh! Quand Je Dors
+!!!OPR: 6 Me/lodies avec accompagnement de piano
+!!!OPS: Op. 17
+!!!ONM: No. 5
+!!!LYR: Victor Hugo
+!!!ENC: Jacob Pegg
+!!!ODT: 1856/
+!!!YOR: Romantic French Song 1830-1870, David Tunley, ed., New !!!YOR: York: Garland Publishing, Inc., 1995, vol. 3
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[f#c#g#d#]	*
+*M2/4	*
+=5	=5
+{4b	{Oh!
+8.e	quand
+16dd#	je
+=6	=6
+2cc#	dors,
+=7	=7
+8.b	viens
+16a	au-
+8g#	-pre\s
+16f#	de
+16g#	ma
+=8	=8
+[4e	cou-
+8e]}	-che,}
+8r	.
+=9	=9
+2r	.
+=10	=10
+{[4ee	{Viens
+32ee]	|
+32r	.
+16e	Comme
+16d#	a\
+16b	Pe/-
+=11	=11
+[4b	-trar-
+16b]	-que
+16g#	ap-
+16f##	-pa-
+16dd#	-rais-
+=12	=12
+4.dd#	-sait
+8cc#	Lau-
+=13	=13
+(4b#	-ra,
+[8bn	|
+16bn])}	|}
+16r	.
+=14	=14
+{4b	{Et
+8.ee	qu'en
+16dd#	pas-
+=15	=15
+2cc#	-sant
+=16	=16
+8.b	ton
+16a	ha-
+8g#	-le-
+16f#	-ine
+16g#	me
+=17	=17
+[4e	tou-
+8e]}	-che}
+16r	.
+{16e	{Sou-
+=18	=18
+8.cc#	-dain
+16a#	ma
+[4a#	bou-
+=19	=19
+4a#_	|
+16a#]}	-che}
+{16a#	{S'en-
+16.a#	-tr'ou-
+32b	-vri-
+=20	=20
+[4b	-ra,
+16b]	|
+16a	s'en-
+16a	-tr'ou-
+16d#	-vri-
+=21	=21
+[4e	-ra!
+16e]}	|}
+16r	.
+8r	.
+!!Two slightly modified verses follow.
+*-	*-

@@ -1,0 +1,86 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Die Trauernde
+!!!OPS: Op. 7
+!!!ONM: No. 5
+!!!ODT: 1852/
+!!!LYR: Volkslied
+!!!ONB: Original key: a minor
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[b-e-]	*
+*M3/4	*
+*MM[lento]	*
+!! tempo indication: langsam
+=1	=1
+2r	.
+{4g	{Mei
+=2	=2
+2b-	Mue-
+4a	-ter
+=3	=3
+8g	mag
+8g	mi
+4d}	net,}
+4r	.
+=4	=4
+{8e-	{und
+8e-	kei
+4f	Schatz
+8g	han
+8g	i
+=5	=5
+2d}	net,}
+4r	.
+=6	=6
+{2b-	{ei
+8a	war-
+8a	-um,
+=7	=7
+8g	sterb
+8g	i
+4d}	net,}
+4r	.
+=8	=8
+{4e-	{was
+4f	tu
+4g	i
+=9	=9
+2.d}	do?}
+=11	=11
+{2b-	{Lasst
+8c	die
+8c	drei
+=12	=12
+8dd	Ro-
+8dd	-se
+2bn	stehn,
+=13	=13
+2b-	die
+8cc	an
+8cc	dem
+=14	=14
+8dd	Kreuz-
+8dd	-le
+2bn}	blu2n:}
+=15	=15
+{2b-	{hent
+8a	ihr
+8a	das
+=16	=16
+8g	Ma2d-
+8g	-le
+4d}	kennt,}
+4r	.
+=17	=17
+{4e-	{die
+4f	drun-
+4g	-ter
+=18	=18
+2.d}	liegt?}
+*-	*-

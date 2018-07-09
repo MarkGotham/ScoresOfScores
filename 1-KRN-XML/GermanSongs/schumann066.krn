@@ -1,0 +1,125 @@
+!!!COM: Robert Schumann
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: Morgens steh' ich auf und frage
+!!!LYR: Heine
+!!!OPR: Liederkreis
+!!!OPS: Op. 24
+!!!ONM: No. 1
+!!!ENC: Ben Fuhrman
+!!!YOR: Schumann Lieder - Max Friedlaender, ed.,
+!!!YOR: New York: C. F. Peters, Vol. 2
+!!!ODT: 1840/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clefG2	*
+*k[]	*
+*M2/4	*
+!!created: 6/1/06 9:15
+!!proofed and posted: 6/1/06 9:15
+!!edit time: 25 minutes
+=5	=5
+{4.e	{Mor-
+8e	-gens
+=6	=6
+4f	steh'
+4g	ich
+=7	=7
+4a	auf
+4f	und
+=8	=8
+(8e	fra-
+8d)	|
+4d	-ge:
+=9	=9
+4c	kommt
+4d	fein's
+=10	=10
+4.e	Lieb-
+8f	-chen's
+=11	=11
+4d}	heut'?}
+4r	.
+!! rest to measure 13
+=13	=13
+{4.g	{A-
+8f#	-bends
+=14	=14
+4g	sink'
+4a	ich
+=15	=15
+4.b	hin
+8g	und
+=16	=16
+(8g	kla-
+8f#)	|
+4f#	-ge:
+=17	=17
+4e	aus
+4f#	blieb
+=18	=18
+(4g	sie
+8b)	|
+8a	auch
+=19	=19
+4g	heut',
+4f#	auch
+=20	=20
+4e}	heut'.}
+4r	.
+=21	=21
+4r	.
+{8e	{In
+8e	der
+=22	=22
+4.f	Nacht
+8a	mit
+=23	=23
+4.g	mei-
+8e	-nem
+=24	=24
+(8e	Kum-
+8f)	|
+4f	-mer
+=25	=25
+4.g	lieg'
+8g	ich
+=26	=26
+4a	schla-
+4cc	-flos,
+=27	=27
+8r	.
+4b-	lieg'
+8g	ich
+=28	=28
+4a}	wach;}
+4r	.
+=29	=29
+{4.a	{tra2u-
+8a	-mend
+=30	=30
+(8a	wie
+4dd)	|
+8a	im
+=31	=31
+4.a	hal-
+8a	-ben
+=32	=32
+(8a	Schlum-
+4dd)	|
+8dd-	-mer,
+=33	=33
+4cc	tra2u-
+4a	-mend
+=34	=34
+(4g	wand-
+8c)	|
+8d	-le
+=35	=35
+4e	ich
+4d	bei
+=36	=36
+2c}	Tag.}
+==	==
+*-	*-

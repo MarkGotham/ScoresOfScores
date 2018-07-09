@@ -1,0 +1,106 @@
+!!!COM: Fe/licien David
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Tristesse de L'odalisque
+!!!OPR: Les perles de l'orient
+!!!ONM: No. 5
+!!!LYR: The/ophile Gautier
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870, David Tunley, ed., New York: Garland Publishing, Inc., 1995
+!!!ODT: 1866(?)
+!!NB: Vocal melody and text only encoded.
+!!NB: Only first strophe encoded.
+**kern	**silbe
+*clef G2	*
+*k[f#c#]	*
+*M3/4	*
+=1	=1
+4r	.
+4r	.
+{4f#	{Dans
+=2	=2
+4.b	un
+8b	sou-
+4b	-pir
+=3	=3
+4b	l'on-
+4f#	-de au
+4g#	ri-
+=4	=4
+2a	-va-
+4a	-ge
+=5	=5
+4dd	Dit
+4.cc#	ses
+8cc#	mal-
+=6	=6
+2b	-heurs;
+4f#	Pour
+=7	=7
+4.b	con-
+8a#	-so-
+4b	-ler
+=8	=8
+4b	la
+4an	fleur
+4g#	sau-
+=9	=9
+(4.cc#	-va-
+8b)	|
+(8a	-ge
+8g#)	|
+=10	=10
+4a	L'au-
+4.g#	-be a\
+8g#	des
+=11	=11
+4f#}	pleurs.}
+4r	.
+4r	.
+=12	=12
+2.r	.
+=13	=13
+4r	.
+4r	.
+{4f#	{Le
+=14	=14
+4.gn	vent
+8gn	du
+4f#	soir
+=15	=15
+4b	con-
+4a	-te
+4g	sa
+(16aq	|
+16gq)	|
+=16	=16
+2f#	plain-
+4f#	-te
+=17	=17
+4g	Aux
+4.d	vieux
+8e	cy-
+=18	=18
+2.f#}	-pre\s,}
+=19	=19
+4r	.
+4r	.
+{4f#	{La
+=20	=20
+4.b	tour-
+8a#	-te-
+4b	-rel-
+=21	=21
+4b	-le au
+4cc#	te-
+4dd#	-re/-
+=22	=22
+(2ee	-bin-
+4e)	-the
+=23	=23
+4g	Ses
+4.f#	longs
+8f#	re-
+=24	=24
+2.B}	-grets.}
+*-	*-

@@ -1,0 +1,225 @@
+!!!COM: Edouard Lalo
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: L'aube nai^t (Et Ta Porte est Close)
+!!!OPR: 6 Me/lodies avec accompagnement de piano
+!!!OPS: Op. 17
+!!!ONM: No. 3
+!!!LYR: Victor Hugo
+!!!ENC: Jacob Pegg
+!!!ODT: 1856/
+!!!YOR: Romantic French Song 1830-1870, David Tunley, ed., New !!!YOR: York: Garland Publishing, Inc., 1995, vol. 3
+!!NB: Vocal melody and text only encoded.
+!!NB: Some redundancy occurs in melodic material as new and old !!NB: material is occasionally interspersed; no clear repeated !!NB: sections.
+**kern	**silbe
+*clef G2	*
+*k[f#c#]	*
+*M6/8	*
+=5	=5
+4r	.
+8r	.
+{4a	{L'au-
+8dd	-be
+=6	=6
+[2.dd	nai^t
+=7	=7
+8dd]}	|}
+8r	.
+8r	.
+{4f#	{et
+8f#	ta
+=8	=8
+[4.g	por-
+8g]	|
+8a	-te
+8b	est
+=9	=9
+(4.b	clo-
+4.a)}	-se;}
+=10	=10
+2.r	.
+=11	=11
+4r	.
+8r	.
+4r	.
+{8g	{Ma
+=12	=12
+8f#	bel-
+8a	-le,
+8dd	pour-
+8dd	-quoi
+8cc#	som-
+8b	-meil-
+=13	=13
+[4.a#	-ler?
+8a#]}	|}
+8r	.
+{8a#	{A
+=14	=14
+8b	l'heure
+8b	ou\
+8b	s'e/v-
+8ee	-eil-
+8ee	-le
+8dd	la
+=15	=15
+4cc#	ro-
+8cc#}	-se}
+{8dd	{Ne
+8b	vas~
+8g	~tu
+=16	=16
+4.g	pas
+8g#	te
+8a	re/-
+8b	-veil-
+=17	=17
+2.a}	-ler?}
+=18	=18
+!!refrain?
+{8a	{O
+8e	ma
+8g	char-
+(8f#	-man-
+8g)	|
+8a	-te e/-
+=19	=19
+(8b	-cou-
+8f#)	|
+8a	-te i-
+4.g}	-ci}
+=20	=20
+{8f#	{L'a-
+8g	-mant
+8e	qui
+(16f#	chan-
+16dd)	|
+4dd	-te
+=21	=21
+8dd	Et
+8e	pleure
+8e	aus-
+[4.e	-si,
+=22	=22
+8e]}	|}
+8r	.
+{8e	{Et
+[4e	pleu-
+16e]	-re
+16f#	aus-
+=23	=23
+[4.f#	-si.
+8f#]}	|}
+8r	.
+8r	.
+!!mm 24-29 tacit voice
+=30	=30
+4r	.
+8r	.
+4r	.
+{8e	{Tout
+=31	=31
+8e	frap-
+8f#	-pe a\
+8g#	ta
+8a	por-
+8b	-te
+8cc#	be/-
+=32	=32
+(4.cc#	-ni-
+4b)}	-e.}
+8r	.
+=33	=33
+4r	.
+{8g#	{L'au-
+4cc#	-ro-
+8b	-re
+=34	=34
+4.a	dit:
+8b	je
+8cc#	suis
+8dd#	le
+=35	=35
+2.e}	jour!}
+=36	=36
+4r	.
+8r	.
+8r	.
+{8b	{L'ois-
+8b	-eau
+=37	=37
+4cc#	dit:
+8cc#	je
+8dd#	suis
+8dd#	l'har-
+8b#	-mo-
+=38	=38
+[4cc#	-ni-
+16cc#]}	-e,}
+16r	.
+{8cc#	{Et
+8b	mon
+8a	coeur
+=39	=39
+(8a	dit:
+8f#)	|
+8a	je
+4cc#	suis
+8b	l'a-
+=40	=40
+2.a}	-mour!}
+!!repeat refrain mm. 41 - 46
+!!voice tacit mm. 47 - 54
+=55	=55
+{4.a	{Je
+4a	t'a-
+8b	-do-
+=56	=56
+[4.cc#	-re an-
+4.cc#_	-ge,
+=57	=57
+4cc#]	|
+8a	et
+4b	t'ai-
+8cc#	-me
+=58	=58
+(4.cc#	fem-
+4.dd)}	-me!}
+=59	=59
+2.r	.
+=60	=60
+{4.dd	{Dieu,
+4cc#	qui
+8cc#	par
+=61	=61
+!!manuscript is missing staff lines here - best guesses
+4.b	toi,
+8a	m'a
+8a	com-
+8b	-ple/-
+=62	=62
+4g}	-te,}
+{8g	{A
+8ee	fait
+8ee	mon
+8dd	a-
+=63	=63
+8cc#	-mour
+8cc#	pour
+8b	ton
+(4a	a^-
+8g)	|
+=64	=64
+4.f#}	-me,}
+{8f#	{Et
+8f#	mon
+8b	re-
+=65	=65
+4.b	-gard
+8g	pour
+8e	ta
+8b	beau-
+=66	=66
+2.a}	te/!}
+!! repeat refrain mm. 67 (76)
+*-	*-

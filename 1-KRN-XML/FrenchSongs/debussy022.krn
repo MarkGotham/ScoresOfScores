@@ -1,0 +1,223 @@
+!!!COM: Claude Debussy
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OPR: Trois Me/lodies
+!!!ONM: No. 2
+!!!OTL: Le Son du Cor
+!!!LYR: Paul Verlaine
+!!!ENC: Jacob Pegg
+!!!YOR: Claude Debussy: Songs 1880-1904, Edited by Rita Benton
+!!!YOR: New York: Dover publications, inc., 1981
+!!!YOR: ISBN 0-486-24131-9
+!!!ODT: 1891/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[b-e-a-d-]	*
+*M3/4	*
+*MM[lento]	*
+!! created: 7/3/03 23:30
+!! last edited: 7/22/03 12:49
+!! time (min) : input notes 25, words 8.  check : notes 10, words .
+!! total edit time: about 48 min.
+=5	=5
+4r	.
+8r	.
+{8en	{Le
+8en	son
+8en	du
+=6	=6
+8en	cor
+8en	s'af-
+8en	-fli-
+8en	-ge
+8en	vers
+8en	les
+=7	=7
+2.f}	bois}
+=8	=8
+{12f	{D'u-
+12f	-ne
+12f	dou-
+12b-	-leur
+12b-	on
+12b-	veut
+12cc	croire
+12b-	or-
+12cc	-phe-
+=9	=9
+4g	-li-
+4f}	-ne}
+8r	.
+{8d-	{Qui
+=10	=10
+8d-	vient
+8d-	mou-
+(12d-	-rir
+12d-	au
+12d-)	bas
+(12d-	de
+12d-	la
+12d-)	col-
+=11	=11
+[4d-	-li-
+8d-]}	-ne}
+{8d-	{Par-
+8e-	-mi
+8f	la
+=12	=12
+8an	bise
+8cc	er-
+8cc	-rant
+8b-	en
+8b-	courts
+8cc	a-
+=13	=13
+2g}	-bois.}
+4r	.
+=14	=14
+*MM63	*
+!!Un peu anime
+{12e-	{L'a^-
+12e-	-me
+12e-	du
+12g-	loup
+12g-	pleu-
+12g-	-re
+12a-	dans
+12g-	cet-
+12a-	-te
+=15	=15
+2b-}	voix,}
+{4b-	{Qui
+=16	=16
+8b-	mon-
+8cc-	-te a-
+12a-	-vec
+12g-	le
+12a-	so-
+12cc-	-leil
+12a-	qui
+12cc-	de/-
+=17	=17
+[2ee-	-cli-
+4ee-]}	-ne}
+=18	=18
+{12een	{D'u-
+12ddn	-ne a-
+12een	-go-
+12cc	-nie
+12b-	on
+12cc	veut
+12a-	croi-
+12g-	-re
+12a-	ca^-
+=19	=19
+4g-	-li-
+8f-}	-ne,}
+{8f-	{Et
+8g-	qui
+8a-	ra-
+=20	=20
+4dd-	-vit
+8b-	et
+8a-	qui
+12f-	na-
+12g-	-vre a\
+12gn	la
+=21	=21
+2g}	fois.}
+4r	.
+=22	=22
+2.r	.
+=23	=23
+4r	.
+8r	.
+{8d-	{Pour
+8e-	fai-
+8f	-re
+=24	=24
+4f	mieux
+8g	cet-
+8g	-te
+12b-	plain-
+12g	-te as-
+12b-	-sou-
+=25	=25
+4cc	-pi-
+4b-}	-e,}
+{4dd-	{La
+=26	=26
+8cc	nei-
+8cc	-ge
+12b-	tombe
+12b-	a\
+12b-	longs
+12a-	traits
+12a-	de
+12a-	char-
+=27	=27
+4g-	-pi-
+4en}	-e}
+{8dn	{A
+8dn	tra-
+=28	=28
+12dn	-vers
+12dn	le
+12dn	cou-
+12dn	-chant
+12dn	san-
+12dn	-gui-
+12dn	-no-
+6dn}	-lent,}
+=29	=29
+2.r	.
+=30	=30
+!! meter actually changes to 6/8, then 9/8, then back to 3/4. The latter two are not marked.
+4r	.
+2r	.
+=31	=31
+2r	.
+4r	.
+=32	=32
+{4g	{Et
+8f	l'air
+8f	a
+12g	l'air
+12g	d'e^-
+12g	-tre un
+=33	=33
+12an	sou-
+12an	-pir
+12an	d'au-
+4bn	-tom-
+4an}	-ne,}
+=34	=34
+{12an	{Tant
+12cc	il
+12een	fait
+12cc	doux
+12an	par
+12f#	ce
+12an	soir
+12cc	mo-
+12een	-no-
+=35	=35
+2een	-to-
+4cc}	-ne,}
+=36	=36
+{4cc	{Ou\
+4b-	se
+4g	dor-
+=37	=37
+8cc	-lo-
+8b-	-te un
+8f	pa-
+8d-	-y-
+8e-	-sa-
+8f	-ge
+=38	=38
+2a-}	lent.}
+4r	.
+*-	*-

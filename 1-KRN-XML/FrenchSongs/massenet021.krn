@@ -1,0 +1,136 @@
+!!!COM: Jules Massenet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: A\ Mignonne
+!!!LYR: Gustave Chouquet
+!!!OPR: Chants Intimes
+!!!ONM: No. 2
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 - David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 6
+!!!ODT: 1869/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[f#]	*
+*M3/8	*
+!!created: 12/21/03 17:08
+!!proofed and posted: 1/22/04 0:34
+!!edit time: 29 min.
+=1	=1
+4.r	.
+=2	=2
+8.r	.
+8.r	.
+=3	=3
+16r	.
+{16g	{Pour
+16g	qui
+16g	se-
+16.b	-ra,
+32a	Mi-
+=4	=4
+(4a	-gnon-
+8d)}	-ne,}
+=5	=5
+{16g	{L’on-
+16a	-do-
+8b	-yan-
+16cc	-te
+16dd	cou-
+=6	=6
+(4dd	-ron-
+8ee	|
+=7	=7
+16e)}	-ne}
+{16dd	{De
+16cc	vos
+16b	che-
+16a	-veux-
+16d	cha^-
+=8	=8
+4g}	-tains?}
+16r	.
+{16b	{Pour
+=9	=9
+8.b	qui
+16e	vo-
+16f#	-tre
+16g	sou-
+=10	=10
+8a	-ri-
+8a}	-re,}
+16.r	.
+{32b	{Vos
+=11	=11
+8.b	yeux
+16e	ou\
+16g	j’aime
+16b	a\
+=12	=12
+(4cc#	li-
+8ee	|
+=13	=13
+16dd#)}	-re,}
+{16f#	{Vos
+16f#	pe-
+16g#	-tits
+16f#	pieds
+(a#q	|
+16g#)	mu-
+=14	=14
+[4.f#	-tins?
+=15	=15
+4.f#_	|
+=16	=16
+4f#_	|
+8f#_	|
+=17	=17
+4f#]}	|}
+8r	.
+!! first melody repeated mm. 18-37 
+=38	=38
+4r	.
+16r	.
+{16dd	{Pour
+=39	=39
+8.dd	qui
+16a	veut
+16g	dans
+16f#	la
+=40	=40
+8b	vi-
+8b}	-e,}
+8r	.
+=41	=41
+!! rests substituted for repeated melodic phrase
+8.r	.
+16r	.
+16r	.
+16r	.
+=42	=42
+8r	.
+16r	.
+16r	.
+{16g	{Ton
+16g	es-
+=43	=43
+(4.ee	-cla-
+=44	=44
+8e)}	-ve,}
+{8dd	{ton
+8cc	es-
+=45	=45
+8g	-clave
+8b	ou
+8a	ton
+=46	=46
+[4.g	roi!
+=47	=47
+4.g_	|
+=48	=48
+8g]}	|}
+8r	.
+8r	.
+*-	*-

@@ -1,0 +1,131 @@
+!!!COM: Jules Massenet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: Un Adieu
+!!!LYR: Armand Silvestre
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 - David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 6
+!!!ODT: 1869/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[b-]	*
+*M9/8	*
+!!created: 12/23/03 14:10
+!!proofed and posted: 1/22/04 9:44
+!!edit time: 40 min.
+=1	=1
+1r	.
+8r	.
+=2	=2
+8r	.
+1r	.
+=3	=3
+4r	.
+8r	.
+4r	.
+8r	.
+{4b-	{Sur
+8a	ta
+=4	=4
+4dd	bouche
+8cc	a-
+4.f	-vec
+4g	le
+8f	de-
+=5	=5
+(4.e	-sir
+4d)}	|}
+8r	.
+{4.c	{Je
+=6	=6
+4.c	bois
+4B-	ta
+8d	der-
+8g	-ni-
+8b-	-e\re
+8dd	ca-
+=7	=7
+(4.ff	-res-
+4ee)}	-se:}
+8r	.
+4r	.
+8r	.
+=8	=8
+4r	.
+8r	.
+4r	.
+8r	.
+{4dd	{Car
+8b-	je
+=9	=9
+4g	ne
+8a	veux
+4.b-	plus
+4cc	de
+8a	mai^-
+=10	=10
+(4.a	-tres-
+4.g)}	-se}
+{4.g	{Que
+=11	=11
+4.g	cel-
+8f	-le
+8d	qui
+8f	ne
+4b-	sait
+8b-	tra-
+=12	=12
+[4.a	-hir.
+4a]}	|}
+8r	.
+4r	.
+8r	.
+!!first melodic phrase repeats. 
+=31	=31
+4r	.
+8r	.
+4r	.
+8r	.
+{4dd-	{Car
+8b-	je
+=32	=32
+4g	ne
+8a-	veux
+4.b-	plus
+4cc	de
+8a-	souf-
+=33	=33
+(2.a-	-fran-
+4.g	|
+=34	=34
+4f)}	-ce...}
+4.r	.
+2r	.
+=35	=35
+2.r	.
+{4.f	{Que
+=36	=36
+[2.dd-	cel-
+4.dd-_	|
+=37	=37
+(4.dd-]	|
+8en)	-le,
+8en	dont
+8f	je
+(8g	dois
+8.a;)	|
+16b-	mou-
+=38	=38
+[2.cc	-rir!
+4.cc_	|
+=39	=39
+4cc]}	|}
+8r	.
+4r	.
+8r	.
+4r	.
+8r	.
+*-	*-

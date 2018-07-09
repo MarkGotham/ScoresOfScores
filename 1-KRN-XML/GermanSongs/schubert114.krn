@@ -1,0 +1,83 @@
+!!!COM: Franz Schubert
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: "Na2he des Geliebten"
+!!!LYR: Johann Wolfgang von Goethe
+!!!OPS: Op. 5
+!!!ONM: No. 2
+!!!ENC: Ben Fuhrman
+!!!YOR: Schubert Lieder - Dietrich Fischer-Dieskau, and Elmar Budde, eds.
+!!!YOR: New York: C. F. Peters, Vol. 2
+!!!ODT: 1815/
+!!NB: Only vocal melody encoded.
+!!NB: First instance of melodic material only encoded.
+!!NB: Original Key: G-flat Major
+**kern
+*clef G2
+*k[b-e-a-]
+*M12/8
+!!created: 08/04/06 4:15
+!!proofed and posted: 08/04/06 4:15
+!!edit time: 25 minutes
+=2
+2.r
+4r
+8r
+4r
+{8ee
+=3:|
+[4.ee
+4ee]
+8b
+4.b
+8b
+8a
+8g
+=4
+[4.f
+8f]
+8a
+8cc
+4cc
+8b
+4r
+8g
+=5
+[4.b
+4b]
+8d
+4.e}
+4r
+{8ee
+=6
+[4.dd
+8dd]
+8cc
+8b
+(4b
+8ee)
+4r
+8ee
+=7
+[4.bn
+8bn]
+8an
+8g
+4g
+8cc
+8.cc
+16dd
+8ee
+=8
+[4.g
+8g]
+8a
+8b
+(4b
+8e)}
+4r
+8r
+!! rest to measure 10
+!! the following note is only used in repeats
+=10
+*-

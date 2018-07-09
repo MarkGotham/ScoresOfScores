@@ -1,0 +1,74 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Scheiden und Meiden
+!!!OPS: Op.19
+!!!ONM: No. 2
+!!!LYR: Uhland
+!!!ONB: Original key: Originaltonart
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!!ODT: 1858/
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[b-]	*
+*M3/4	*
+*MM[adagio]	*
+!! tempo indication: nicht zu langsam
+=1	=1
+2r	.
+{4d	{So
+=2	=2
+(4d	soll
+4a)	|
+4dd	ich
+=3	=3
+2a	dich
+4ee	nun
+=4	=4
+2a	mei-
+4dd}	-den,}
+=5	=5
+4r	.
+4r	.
+{4dd	{du,
+=6	=6
+(4cc	mei-
+4a)	|
+4b-	-nes
+=7	=7
+(4cc	Le-
+4f)	|
+4g	-bens
+=8	=8
+2a}	Lust?}
+4r	.
+=9	=9
+4r	.
+4r	.
+{4cc	{Du
+=10	=10
+2a	ku2s-
+4cc	-sest
+=11	=11
+2a	mich
+4ee	zum
+=12	=12
+2.bn	Schei-
+=13	=13
+2a}	-den,}
+{4cc	{ich
+=14	=14
+(4bn	dru2-
+4a)	|
+4g	-cke
+=15	=15
+(4e	dich
+4d)	an
+4e	die
+=16	=16
+2d}	Brust!}
+4r	.
+*-	*-

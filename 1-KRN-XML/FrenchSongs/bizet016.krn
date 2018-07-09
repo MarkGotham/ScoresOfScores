@@ -1,0 +1,123 @@
+!!!COM: Georges Bizet
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OTL: La Chanson du Fou
+!!!LYR: Victor Hugo
+!!!ENC: Jacob Pegg
+!!!YOR: Romantic French Song 1830-1870 -David Tunley, ed.,
+!!!YOR: New York: Garland Publishing, Inc., 1995, Vol. 4
+!!!ODT: 1868/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[]	*
+*M3/4	*
+!!created: 5/6/03 23:07
+!!pasted to vi: 5/6/03 23:36
+!!encode/analyze/proof/edit: 28 min.
+=3	=3
+{8a	{Au
+8b	so-
+8cc	-leil
+8b	cou-
+4a}	-chant,}
+=4	=4
+{8dd	{Toi
+8ee	qui
+8ff	vas
+8ee	cher-
+4dd}	-chant}
+=5	=5
+8r	.
+{8cc	{For-
+2dd	-tu-
+=6	=6
+2ee}	-ne,}
+4r	.
+=7	=7
+{8cc	{Prends
+8dd	gar-
+8cc	-de
+8b	de
+4a}	choir;}
+=8	=8
+{8b-	{La
+8cc	ter-
+8b-	-re,
+8a	le
+4g#}	soir,}
+=9	=9
+8r	.
+{8cc	{Est
+2bn	bru-
+=10	=10
+4a}	-ne.}
+4r	.
+4r	.
+=11	=11
+{8cc	{L'o-
+8e	ce/-
+8e	-an
+8g	trom-
+4cc	-peur
+=12	=12
+8b	Cou-
+8e	-vre
+8e	de
+8g	va-
+4b}	-peur}
+=13	=13
+8r	.
+{8a	{La
+2a	du-
+=14	=14
+2b}	-ne.}
+4r	.
+=15	=15
+{8ff	{Vois;
+8ee-	a\
+8dd	l'ho-
+8cc	-ri-
+4b-}	-zon,}
+=16	=16
+{8dd	{Au-
+8cc	-cu-
+8b-	-ne
+8a	Mai-
+4g#}	-son!}
+=17	=17
+8r	.
+{8cc	{Au-
+2bn	-cu-
+=18	=18
+4a}	-ne!}
+4r	.
+4r	.
+=41	=41
+{8ffn	{Les
+8dd#	lu-
+4.dd#	-tins
+8dd#	de
+=42	=42
+(4ffn	l'air
+[4dd#)	|
+8dd#]}	|}
+8r	.
+=43	=43
+{8ffn	{Vont
+8dd#	dan-
+8ffn	-ser
+8dd#	au
+8ffn}	clair}
+{8dd#	{De
+=44	=44
+[2.ee	lu-
+=45	=45
+(4ee]	|
+16ccq	|
+16ddq	|
+2cc)	|
+=46	=46
+2.a}	-ne.}
+*-	*-

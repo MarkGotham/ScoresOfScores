@@ -1,0 +1,91 @@
+!!!COM: Franz Schubert
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: "Ja2gers Abendlied"
+!!!LYR: Johann Wolfgang von Goethe
+!!!OPS: Op. 3
+!!!ONM: No. 4
+!!!ENC: Ben Fuhrman
+!!!YOR: Schubert Lieder - Dietrich Fischer-Dieskau, and Elmar Budde, eds.
+!!!YOR: New York: C. F. Peters, Vol. 2
+!!!ODT: 1815/
+!!NB: Only vocal melody encoded.
+!!NB: First instance of melodic material only encoded.
+!!NB: Original Key: D-flat Major
+**kern
+*clef G2
+*k[f#c#g#d#a#]
+*M2/4
+!!created: 08/02/06 5:00
+!!proofed and posted: 08/02/06 5:00
+!!edit time: 15 minutes
+=
+4.r
+{8f#
+=1
+4.b
+8f#
+=2
+4.b
+16dd#
+16b
+=3
+4.f#
+16.g#
+32f#
+=4
+4.f#
+24f#
+24g#
+24a#
+=5
+4.b
+8dd#
+=6
+[4cc#
+16cc#]
+16g#
+16b
+16e#
+=7
+4f#}
+8r
+{8dd#
+=8
+8.ee
+16ee
+8ee
+16dd#
+16cc#
+=9
+8.b
+16an
+(qan
+4g#)
+=10
+8r
+8cc#
+(8ddn
+16cc#)
+16b
+=11
+8b
+(qb
+24a#)
+24g#
+24a#
+8.b
+16cc#
+=12
+8.dd#
+16b
+(8a#
+qb
+qa#
+16g#)
+16a#
+=13
+4b}
+4r
+==
+*-

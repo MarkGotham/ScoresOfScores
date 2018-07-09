@@ -1,0 +1,79 @@
+!!!COM: Johannes Brahms
+!!!CNT: Deutscher
+!!!TXO: Deutsche
+!!!OTL: Gang zur Liebsten
+!!!OPS: Op. 14
+!!!ONM: No. 6
+!!!LYR: Volkslied
+!!!ONB: Original key: e minor
+!!!ENC: Ayako Kataoka        
+!!!EED: Leigh VanHandel
+!!!YOR: C.F. Peters, Brahms Lieder fu2r eine Singstimme mit Klavierbegleitung, Band III, ausgabe fu2r tiefere Stimme
+!!!ODT: 1858/
+!!NB: Vocal melody and text only encoded.
+**kern	**silbe
+*clefG2	*
+*k[b-e-a-]	*
+*M6/8	*
+*MM[andante]	*
+=1	=1
+4r	.
+4r	.
+8r	.
+{8f	{Des
+=2	=2
+4f	A-
+8f	-bends
+8g	kann
+8g	ich
+8cc	nicht
+=3	=3
+4b-	schla-
+8g	-fen
+4e-}	gehn,}
+{8b-	{zu
+=4	=4
+(8g	mei-
+8e-)	-ner
+8b-	Herz-
+(8g	-lieb-
+8e-)	|
+8cc	-sten
+=5	=5
+4b-	muss
+8an	ich
+4g}	gehn,}
+{8fn	{zu
+=6	=6
+8g	mei-
+8g	-ner
+8b-	Herz-
+4g	-lieb-
+8f	-sten
+=7	=7
+4e-	muss
+8f	ich
+4g	gehn
+8f	und
+=8	=8
+4g	sollt
+8b-	ich
+4g	an
+8f	der
+=9	=9
+8e-	Tu2r
+8e-	blei-
+8f	-ben
+4g}	stehn,}
+{8cc	{ganz
+=10	=10
+(4ee-	hei-
+8dd	|
+4cc)	|
+8bn	-me-
+=11	=11
+4cc}	-lig!}
+8r	.
+4r	.
+8r	.
+*-	*-

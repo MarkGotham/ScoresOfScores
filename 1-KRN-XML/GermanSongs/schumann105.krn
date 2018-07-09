@@ -1,0 +1,95 @@
+!!!COM: Robert Schumann
+!!!CNT: Deutsch
+!!!TXO: Deutsch
+!!!OTL: "Lied eines Schmiedes"
+!!!LYR: Lenau
+!!!OPR: Sechs Gedichte von N. Lenau und Requiem
+!!!OPS: Op. 90
+!!!ONM: No. 1
+!!!ENC: Leigh VanHandel
+!!!YOR: Schumann Lieder - Max Friedlaender, ed.,
+!!!YOR: New York: C. F. Peters, Vol. 3
+!!!ODT: 1850/
+**kern	**silbe
+*staff1	*
+*clefG2	*
+*k[b-e-a-]	*
+*met(C)	*
+*M4/4	*
+*MM[Ziemlich langsam, sehr markirt]	*
+=1	=1
+2r	.
+4r	.
+{4e-	{Fein
+=2	=2
+4b-	Ro2ss-
+4b-	-lein,
+4b-	ich
+4cc	be-
+=3	=3
+4.b-	-schla-
+8b-	-ge
+4b-}	dich,}
+4r	.
+=4	=4
+4r	.
+{4b-	{sei
+4cc	frisch
+4dd	und
+=5	=5
+2b-}	fromm,}
+4r	.
+{4b-	{und
+=6	=6
+2g	wie-
+4f	|
+4f	-der
+=7	=7
+2.e-}	komm,}
+{4cc	{und
+=8	=8
+2g	wie-
+4.f	|
+8e-	-der
+=9	=9
+2e-}	komm!}
+2r	.
+=10	=10
+2r	.
+4r	.
+{4e-	{Trag'
+=11	=11
+4b-	auf
+4b-	dem
+4b-	Ritt
+4cc	mit
+=12	=12
+4.b-	je-
+8b-	-dem
+4b-}	Tritt}
+4r	.
+=13	=13
+4r	.
+{4b-	{den
+4cc	Rei-
+4dd	-ter
+=14	=14
+2b-}	du}
+4r	.
+{4b-	{dem
+=15	=15
+2g	Him-
+4f	|
+4f	-mel
+=16	=16
+2.e-}	zu,}
+{4cc	{dem
+=17	=17
+2g	Him-
+4.f	|
+8e-	-mel
+=18	=18
+2e-}	zu!}
+2r	.
+==	==
+*-	*-

@@ -1,0 +1,183 @@
+!!!COM: Claude Debussy
+!!!CNT: Francais
+!!!TXO: Francais
+!!!OPR: Ariettes Oublie/es
+!!!ONM: No. 6
+!!!OTL: Spleen
+!!!LYR: Paul Verlaine
+!!!ENC: Jacob Pegg
+!!!YOR: Claude Debussy: Songs 1880-1904, Edited by Rita Benton
+!!!YOR: New York: Dover publications, inc., 1981
+!!!YOR: ISBN 0-486-24131-9
+!!!ODT: 1887/
+!!NB: Vocal melody and text only encoded.
+!!NB: First instance of melodic material only encoded.
+**kern	**silbe
+*clef G2	*
+*k[b-e-a-d-]	*
+*M3/4	*
+*MM[lento]	*
+!! created: 6/29/03 15:21
+!! last edited: 7/10/03 12:29
+!! time (min) : input notes 14, words 7.  check : notes 5, words 4.
+!! total edit time: about 33 min.
+=4	=4
+4r	.
+4r	.
+8r;	.
+{8en	{Les
+=5	=5
+8en	ro-
+8en	-ses
+8en	e/-
+8en	-taient
+8en	tou-
+8en	-tes
+=6	=6
+4en	rou-
+8en}	-ges,}
+8r	.
+12r	.
+{(12en	{Et
+12en)	les
+=7	=7
+4en	lier-
+8en	-res
+8en	e/-
+8en	-taient
+8en	tout
+=8	=8
+4en}	noirs.}
+4r	.
+4r	.
+=9	=9
+2.r	.
+=10	=10
+{[8ff-	{Che\-
+16ff-]	-re,
+16r	.
+8ee-	pour
+8dd-	peu
+12b-	que
+12a-	tu
+12g-	te
+=11	=11
+8f-	bou-
+16f-}	-ges,}
+!! there's a sharp symbol floating here on the 'b' line. Apparently a mistake?
+{16en	{Re-
+4g	-nais-
+4fn	-sent
+=12	=12
+16en	tous
+16en	mes
+16g	de/-
+16b-	-ses-
+4b-}	-poirs.}
+4r	.
+=13	=13
+4r	.
+4r	.
+8r	.
+{8cc#	{Le
+=14	=14
+*k[f#c#g#d#a#]	*
+4.ee	ciel
+8ee	e/-
+8dd#	-tait
+8cc#	trop
+=15	=15
+8.b	bleu,
+16an	trop
+[8gn	ten-
+16gn]}	-dre,}
+16r	.
+8r	.
+{8ggn	{La
+=16	=16
+8gg#	mer
+8ff#	trop
+8ee	verte
+8dd#	et
+8cc#	l'air
+8a#	trop
+=17	=17
+2an}	doux;}
+4r	.
+=18	=18
+*k[b-e-a-d-]	*
+4r	.
+16r	.
+{16d-	{Je
+16d-	crains
+16d-	tou-
+4d-}	-jours,}
+=19	=19
+16r	.
+{16d-	{ce
+16d-	qu'est
+16g	d'at-
+4g	-ten-
+4g-}	-dre,}
+=20	=20
+12r	.
+{(12f	{Quel-
+12en)	-que
+8.a-	fuite
+(16g	a-
+12cc	-tro-
+12b-)	-ce
+12een	de
+=21	=21
+2een}	vous!}
+8r	.
+{(8een	{Du
+=22	=22
+2ff)	houx
+8f	a\
+8f	la
+=23	=23
+(12f#	feuil-
+12g	-le
+12f#)	ver-
+4an}	-nie,}
+{8dn	{Et
+8dn	du
+=24	=24
+8fn	lui-
+8b-	-sant
+4b-	buis
+8b-	je
+8ddn	suis
+=25	=25
+2ddn}	las,}
+{4ee-	{Et
+=26	=26
+8ff	de
+8cc	la
+8a-	cam-
+8cc	-pagne
+8ff	in-
+8aa-	-fi-
+=27	=27
+[4aa-	-ni-
+8aa-]}	-e,}
+8r	.
+{8.ff	{Et
+16ff	de
+=28	=28
+4bb-}	tout,}
+4r	.
+{8b-	{fors
+8dd-	de
+=29	=29
+4dd-}	vous,}
+4r	.
+8.r	.
+{16f-	{He/-
+=30	=30
+4f-}	-las!}
+!!not marked as a flat or tied, but there's an f- in the piano part
+4r	.
+4r	.
+*-	*-
