@@ -1,3 +1,5 @@
+import unittest
+
 from music21 import common
 from music21 import exceptions21
 from music21 import pitch
@@ -20,13 +22,15 @@ def oneKrnToXml(fileSourcePath, fileName):
 
     interimScore = transferMetadata(fileSourcePath, fileName)
     newScore = lyricSwap(interimScore)
+
     return newScore
 
 def corpusKrnToXml(fileSourcePath, fileDestinationPath,
                     searchTerm=None, fileFormat='.krn'): # Either, to avoid both
     '''
     Batch processes a corpus of corresponding KRN and XML files;
-    assumes same same folder, the same file name, different extensions (KRN vs XML).
+    assumes the same folder (fileSourcePath) and file name, but different extensions (KRN vs XML).
+    Call either fileFormat='.krn' or '.xml' to avoid other files in the folder.
     '''
 
     preparedFileList = prepFileList(fileSourcePath, searchTerm, fileFormat)
@@ -34,13 +38,9 @@ def corpusKrnToXml(fileSourcePath, fileDestinationPath,
         try:
             xmlScore = oneKrnToXml(fileSourcePath, eachFile)
             comp = commasIn(xmlScore.metadata.composer)
-            vanhemp = xmlScore.metadata.parentTitle
-            op = xmlScore.metadata.opusNumber
-            no = xmlScore.metadata.number
             tit = xmlScore.metadata.title
             xmlScore.write(fmt='musicxml',
                             fp=fileDestinationPath+comp+' - '+tit+'.xml')
-                            # fp=fileDestinationPath+comp+' - '+vanhemp+', '+op+' '+no+' - '+tit+'.xml')
         except:
             print('Error in processing '+eachFile)
 
@@ -57,16 +57,16 @@ def characterSwaps(anyTextString):
     '''
 
     characterDict = {'a/':'á', 'e/':'é', 'i/':'í', 'o/':'ó', 'u/':'ú',
-                          'A/':'Á', 'E/':'É', 'I/':'Í', 'O/':'Ó', 'U/':'Ú',
-                          'a\\':'à', 'e\\':'è', 'i\\':'ì', 'o\\':'ò', 'u\\':'ù', #Sic (backslash escaping python)
-                          'A\\':'À', 'E\\':'È', 'I\\':'Ì', 'O\\':'Ò', 'U\\':'Ù',
-                          'a^':'â', 'e^':'ê', 'i^':'î', 'o^':'ô', 'u^':'û',
-                          'A^':'A', 'E^':'Ê', 'I^':'Î', 'O^':'Ô', 'U^':'U',
-                          'a0':'å', #'e0':'', 'i0':'', 'o0':'', 'u0':'',
-                          'a1':'ā', 'e1':'ē', 'i1':'ī', 'o1':'ō', 'u1':'ū',
-                          'a2':'ä', 'e2':'ē', 'i2':'ï', 'o2':'ö', 'u2':'ü',
-                          'c5':'ç','C5':'Ç',
-                          'c6':'č','C6':'Č',
+                     'A/':'Á', 'E/':'É', 'I/':'Í', 'O/':'Ó', 'U/':'Ú',
+                     'a\\':'à', 'e\\':'è', 'i\\':'ì', 'o\\':'ò', 'u\\':'ù',
+                     'A\\':'À', 'E\\':'È', 'I\\':'Ì', 'O\\':'Ò', 'U\\':'Ù',
+                     'a^':'â', 'e^':'ê', 'i^':'î', 'o^':'ô', 'u^':'û',
+                     'A^':'A', 'E^':'Ê', 'I^':'Î', 'O^':'Ô', 'U^':'U',
+                     'a0':'å', #'e0':'', 'i0':'', 'o0':'', 'u0':'',
+                     'a1':'ā', 'e1':'ē', 'i1':'ī', 'o1':'ō', 'u1':'ū',
+                     'a2':'ä', 'e2':'ē', 'i2':'ï', 'o2':'ö', 'u2':'ü',
+                     'c5':'ç','C5':'Ç',
+                     'c6':'č','C6':'Č',
                      '{': '', '}': '', '|': '', '"': '', #Single characters to cut
                      '~': '–',} # Cheat solution for literal dash in written French e.g. ‘veux-tu'
 # https://musiccog.ohio-state.edu/Humdrum/representations/text.rep.html
@@ -78,18 +78,19 @@ def characterSwaps(anyTextString):
     if output:
         if output[0] == '–':
             output = output[1:] #Cut first character of dashed-to word
-    return(output)
+    return output
 
 def lyricSwap(score):
     '''
-    Applied characterSwaps function to the lyrics (specifically) of an input score
+    Applies characterSwaps function to the lyrics (specifically) of an input score
     '''
 
     fullNotesAndRests = score.recurse().notesAndRests
     for note in fullNotesAndRests:
         if note.lyric:
             note.lyric = characterSwaps(note.lyric)
-    return (score)
+
+    return score
 
 #-------------------------------------------------------------------------------
 
@@ -115,6 +116,7 @@ def prepFileList(fileSourcePath, searchTerm=None, fileFormat=None):
                      if searchTerm in x]
         elif searchTerm is None and fileFormat is None:
             finalList = initialList
+
     return finalList
 
 #-------------------------------------------------------------------------------
@@ -130,6 +132,7 @@ def commasOut(text):
         newName = ''.join(twoNames)
     else:
         newName = text
+
     return newName
 
 def commasIn(text):
@@ -143,6 +146,7 @@ def commasIn(text):
         newName = ''.join(twoNames)
     else:
         newName = text
+
     return newName
 
 #-------------------------------------------------------------------------------
@@ -152,7 +156,7 @@ def transferMetadata(fileSourcePath, fileName):
     Taking an KRN score and initial XML conversion using humtools,
     transferMetadata returns an XML score with the original metadata (from the KRN score),
     including character swaps.
-    Use either the '.krn' or the '.xml' for the fileName.
+    Use either the '.krn' or the '.xml' version for the fileName.
     '''
 
 #     try:
@@ -185,7 +189,7 @@ def transferMetadata(fileSourcePath, fileName):
         c.name = 'no_lyricist_info'
     xmlScore.metadata.addContributor(c)
 
-    #The rest. To do: generalise (see below)
+    #The rest. TODO: generalise (see below)
     if newMDDict.get('parentTitle'):
         vanhemp = newMDDict.get('parentTitle')
         xmlScore.metadata.parentTitle = vanhemp
@@ -223,5 +227,60 @@ def transferMetadata(fileSourcePath, fileName):
 #                 xmlScore.metadata.item = 'No_'+item+'_Info'
 
     return xmlScore
+
+#------------------------------------------------------------------------------
+
+class Test(unittest.TestCase):
+
+    def testOfCharacter(self):
+
+        startText = ['a/','e/','i/','o/','u/','A/','E/','I/','O/','U/',
+                    'a\\','e\\','i\\','o\\','u\\','A\\','E\\','I\\','O\\','U\\',
+                    'a^','e^','i^','o^','u^','A^','E^','I^','O^','U^',
+                    'a0','a1','e1','i1','o1','u1','a2','e2','i2','o2','u2','c5','C5','c6','C6',
+                    '{','}','|','"', '~']
+
+        newText = [characterSwaps(x) for x in startText]
+
+        self.assertIsInstance(startText[0], str)
+        self.assertIsInstance(newText[0], str)
+        self.assertEqual(len(startText), 50)
+        self.assertEqual(len(newText), 50)
+        self.assertEqual(startText[0], 'a/')
+        self.assertEqual(newText[0], 'á')
+
+    def testLyricSwap(self):
+
+        testVoice = corpus.parse('schubert/Lindenbaum').parts[0]
+        # TODO Get another song: quite slow to load and no lyrics needing swapping.
+
+        newScore = lyricSwap(testVoice) # No change in this case
+
+        oldNotesAndRests = testVoice.recurse().notes #AndRests
+        newNotesAndRests = newScore.recurse().notes #AndRests
+        note0 = newNotesAndRests[0]
+        note0Lyric = note0.lyric
+
+        self.assertEqual(len(oldNotesAndRests), 205)
+        self.assertEqual(oldNotesAndRests, newNotesAndRests)
+        self.assertEqual(note0.name, 'B')
+        self.assertEqual(note0Lyric, 'Am')
+        self.assertIsInstance(note0Lyric, str)
+
+    def testCommasOut(self):
+
+        testName = 'Surname, FirstName'
+        newName = commasOut(testName)
+
+        self.assertIsInstance(newName, str)
+        self.assertEqual(newName[0], 'F')
+
+    def testCommasIn(self):
+
+        testName = 'FirstName Surname'
+        newName = commasIn(testName)
+
+        self.assertIsInstance(newName, str)
+        self.assertEqual(newName[0], 'S')
 
 #------------------------------------------------------------------------------
