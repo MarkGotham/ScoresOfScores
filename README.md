@@ -7,7 +7,7 @@ The [Scores of Scores] lieder corpus encoding project is a major contribution to
 
 [OpenScore]: https://openscore.cc/ "OpenScore - liberating sheet music"
 
-This is a corpus of French and German songs from the 19th century. We inherited a corpus of vocal lines from Leigh Van Handel et al. whose corpus of [French songs is here][LvH French], and the [German songs is here][LvH German]. This project involved converted those files and crowd-sourcing completions of the piano piano parts. A full explanation of the project is provided [here][Scores of Scores].
+This is a corpus of French and German songs from the 19th century. We inherited a corpus of vocal lines from Leigh Van Handel et al. whose corpus of [French songs is here][LvH French], and [German songs is here][LvH German]. This project involved converted those files and crowd-sourcing completions of the piano piano parts. A full explanation of the project is provided [here][Scores of Scores].
 
 [LvH French]: https://github.com/leighvh1/19th-century-art-songs-by-French-composers
 [LvH German]: https://github.com/leighvh1/19th-century-art-songs-by-German-composers
@@ -34,3 +34,9 @@ all files in this repository are released under [Creative Commons Zero (CC0)][CC
 Please see the file [COPYING.txt] for details.
 
 [COPYING.txt]: COPYING.txt "COPYING.txt - CC0 1.0 Universal"
+
+## Acknowledging Scores of Scores
+
+Given the CC0 license, you can use Scores of Scores for any purpose and are under no obligation even to acknowledge it ... though that would be courteous! If you make use of Scores of Scores, then please do make that known, and if you use it in an academic context, please cite the report we have published with DLfM:
+
+Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273027
