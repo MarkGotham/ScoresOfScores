@@ -39,4 +39,4 @@ Please see the file [COPYING.txt] for details.
 
 Given the CC0 license, you can use Scores of Scores for any purpose and are under no obligation even to acknowledge it ... though that would be courteous! If you make use of Scores of Scores, then please do make that known, and if you use it in an academic context, please cite the report we have published with DLfM:
 
-Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273027
+Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273026
