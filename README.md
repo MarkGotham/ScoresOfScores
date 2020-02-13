@@ -15,11 +15,13 @@ This is a corpus of French and German songs from the 19th century. We inherited 
 ## Folders
 
 1. __[KRN-XML](1-KRN-XML)__
-    - The original vocal line corpus in krn format with corrects various typos which we found in attempting to covert from krn to xml, along with those raw xml conversions.
+    - The original vocal line corpus in krn format with corrections for various typos picked up in attempting to covert from krn to mxl, along with those raw mxl conversions.
 2. __[Templates](2-Templates)__
-    - XML and MSCX templates smartened up with code including the hum2XMLFixUp.py file provided here.
-3. __[Corpus](3-Corpus)__
-    - The final, completed corpus including crowd-sourced piano lines.
+    - Template scores with the vocal line transcription smartened up with code including the hum2XMLFixUp.py file also provided here.
+3. __[2018 Corpus](3-Corpus)__
+    - The corpus of completed songs at it stood in 2018, at the time of our first formal release, and the publication of the report with DLfM.
+4. __[Current Corpus](https://github.com/shoogle/OpenScore-LiederCorpus)__ (External link)
+    - The corpus as it currently stands: an auto-updating mirror of the full collection on https://musescore.com/openscore-lieder-corpus.
 
 ## License / Copying
 
