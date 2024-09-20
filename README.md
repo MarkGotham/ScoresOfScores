@@ -1,5 +1,8 @@
-Scores of Scores
+Archive of Scores of Scores, 2018 - latest [now on OpenScore Lieder](https://github.com/OpenScore/Lieder)
 ================
+
+This is a public archive of the initial 'Scores of Scores'.
+The latest version with over 1,300 CC0 songs is publicly available [on the OpenScore Lieder repo](https://github.com/OpenScore/Lieder)
 
 [Scores of Scores]: https://fourscoreandmore.org/scores-of-scores/ "Scores of Scores lieder encoding project"
 
